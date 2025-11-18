@@ -15,7 +15,6 @@ public class Olimpiada {
         eventos.add(e);
     }
 
-    // 🔑 ESTE MÉTODO ES EL QUE TE FALTA
     public ArrayList<Evento> getEventos() {
         return eventos;
     }
